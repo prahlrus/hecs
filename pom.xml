@@ -8,8 +8,8 @@
   <artifactId>hecs</artifactId>
   <version>0.1</version>
 
-  <name>iolbs-sim</name>
-  <url>https://github.com/prahlrus/iolbs-sim</url>
+  <name>hecs</name>
+  <url>https://github.com/prahlrus/hecs</url>
 
   <dependencies>
   </dependencies>
